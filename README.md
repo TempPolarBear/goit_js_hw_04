@@ -4,9 +4,9 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Объекты
-- Проверка вместимости контейнера
-- Расчёт среднего количества калорий
+- Objects
+- Container-capacity validation
+- Average-calorie calculation
 
 ## Technologies
 
